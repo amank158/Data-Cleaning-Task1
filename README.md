@@ -1,1 +1,1 @@
-# Data-Cleaning-Task1
+This project involves the cleaning and preprocessing of a dataset with a focus on preparing the date_added column. The primary objective is to ensure all date values follow a consistent format and handle any inconsistencies within the data.
